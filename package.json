@@ -2,9 +2,10 @@
   "name": "app",
   "private": true,
   "dependencies": {
+    "@hotwired/turbo-rails": "^7.0.0-rc.2",
     "@rails/actioncable": "latest",
     "@rails/activestorage": "latest",
-    "@rails/webpacker": "^6.0.0-rc.1",
+    "@rails/webpacker": "^6.0.0-rc.5",
     "webpack": "^5.51.1",
     "webpack-cli": "^4.8.0"
   },
