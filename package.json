@@ -2,7 +2,7 @@
   "name": "app",
   "private": true,
   "dependencies": {
-    "@hotwired/turbo-rails": "^7.0.0-rc.2",
+    "@hotwired/turbo-rails": "^7.0.0-rc.3",
     "@rails/actioncable": "latest",
     "@rails/activestorage": "latest",
     "@rails/webpacker": "^6.0.0-rc.5",
